@@ -14,11 +14,13 @@ An interactive, AI-driven mock technical interview platform built with **Streaml
 
 ---
 
+
+
 ## 📸 Screenshots
 
-| Sidebar Setup & Role Selection | Interactive Chat & AI Feedback |
+| 1. Landing Page & Sidebar Setup | 2. Active Interview Session & Metrics |
 | :---: | :---: |
-| ![Sidebar Setup](assets/01-setup-sidebar.png) | ![AI Feedback](assets/03-ai-feedback.png) |
+| ![Landing Page](assets/01-landing-page.png) | ![Interview Session](assets/02-interview-session.png) |
 
 ---
 
