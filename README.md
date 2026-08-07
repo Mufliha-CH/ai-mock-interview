@@ -20,7 +20,7 @@ An interactive, AI-driven mock technical interview platform built with **Streaml
 
 | 1. Landing Page & Sidebar Setup | 2. Active Interview Session & Metrics |
 | :---: | :---: |
-| ![Landing Page](assets/01-landing-page.png) | ![Interview Session](assets/02-interview-session.png) |
+| ![Landing Page](assets/01-landing-page.png.png) | ![Interview Session](assets/02-interview-session.png.png) |
 
 ---
 
